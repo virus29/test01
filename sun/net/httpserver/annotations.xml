@@ -1,0 +1,5 @@
+<root>
+    <item name='sun.net.httpserver.ExchangeImpl'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

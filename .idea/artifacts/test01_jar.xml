@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="test01:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/test01_jar</output-path>
+    <root id="archive" name="test01.jar">
+      <element id="module-output" name="test01" />
+      <element id="extracted-dir" path="C:/oracle/12.2.0/jdbc/lib/ojdbc8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/oracle/12.2.0/jdbc/lib/simplefan.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/oracle/12.2.0/jdbc/lib/ojdbc8dms_g.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/oracle/12.2.0/jdbc/lib/ojdbc8dms.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/oracle/12.2.0/jdbc/lib/ojdbc8_g.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

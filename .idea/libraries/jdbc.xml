@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jdbc">
+    <CLASSES>
+      <root url="jar://C:/oracle/12.2.0/jdbc/lib/ojdbc8.jar!/" />
+      <root url="jar://C:/oracle/12.2.0/jdbc/lib/simplefan.jar!/" />
+      <root url="jar://C:/oracle/12.2.0/jdbc/lib/ojdbc8dms_g.jar!/" />
+      <root url="jar://C:/oracle/12.2.0/jdbc/lib/ojdbc8dms.jar!/" />
+      <root url="jar://C:/oracle/12.2.0/jdbc/lib/ojdbc8_g.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
